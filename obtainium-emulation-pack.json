@@ -150,6 +150,18 @@
    ]
   },
   {
+   "id": "net.rpcs3",
+   "url": "https://github.com/DHrpcs3/rpcs3-android",
+   "author": "DHrpcs3",
+   "name": "RPCS3 Android",
+   "apkUrls": "[[\"rpcs3.apk\",\"https://api.github.com/repos/DHrpcs3/rpcs3-android/releases/assets/182408310\"]]",
+   "preferredApkIndex": 0,
+   "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"PlayStation 3 emulator/debugger\"}",
+   "categories": [
+    "Emulator"
+   ]
+  },
+  {
    "id": "nethersx2-patch",
    "url": "https://GitHub.com/trixarian/nethersx2-patch",
    "author": "trixarian",
